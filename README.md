@@ -41,6 +41,9 @@ Program to design a half adder and full adder circuit and verify its truth table
 Developed by: 
 RegisterNumber:  
 */
+
+OUTPUT:
+
 Logic symbol & Truthtable
 
 HALF ADDER
@@ -50,6 +53,7 @@ FULL ADDER
 ![212871394-45d369db-b012-40d4-b8e7-3f4016c91324](https://user-images.githubusercontent.com/119475762/214545473-28b18a90-b480-46f4-8f39-060a67316b5f.png)
 
 RTL realization
+
 HALF ADDER
 ![212871692-6e97dd93-618d-4f6f-8b56-541f76c4c2ce](https://user-images.githubusercontent.com/119475762/214545708-85fb4ba2-d5b3-41e6-b398-a9a51726c705.png)
  

@@ -42,13 +42,29 @@ Developed by:
 RegisterNumber:  
 */
 Logic symbol & Truthtable
+
+HALF ADDER
+![212870671-22def116-4573-4ebe-b055-c0db72c05f55](https://user-images.githubusercontent.com/119475762/214545216-a5c890c6-8600-4e58-8b92-68f456cc6b4e.png)
+
+FULL ADDER
+![212871394-45d369db-b012-40d4-b8e7-3f4016c91324](https://user-images.githubusercontent.com/119475762/214545473-28b18a90-b480-46f4-8f39-060a67316b5f.png)
+
 RTL realization
+HALF ADDER
+![212871692-6e97dd93-618d-4f6f-8b56-541f76c4c2ce](https://user-images.githubusercontent.com/119475762/214545708-85fb4ba2-d5b3-41e6-b398-a9a51726c705.png)
+ 
+FULL ADDER
+![212871937-a21d1f9d-cddf-46d4-9e90-bfe498712f98](https://user-images.githubusercontent.com/119475762/214545807-a0f8def6-83e5-48b3-88b3-1d80075fee2f.png)
 
-### Output:
-### RTL
 ### TIMING DIAGRAM
+HALF ADDER
+![212872254-ba36b6fb-ed69-479c-aa50-2bde5280c1cc](https://user-images.githubusercontent.com/119475762/214545967-27f61388-8117-4789-8154-da6e974d40a6.png)
 
+FULL ADDER
+![212872557-600dea36-5664-4f00-be96-4caf59c4217a](https://user-images.githubusercontent.com/119475762/214546141-9204e927-bee6-488e-bbee-28bfdf25de4e.png)
 
 ### TRUTH TABLE 
+![212872890-ee84e3eb-728d-49cb-b114-fd25562f6f7b](https://user-images.githubusercontent.com/119475762/214546211-0f509942-e43e-4e0d-8f2d-5be889137baa.png)
 
 ### Result:
+Thus, a half adder and full adder circuit is designed to verify its truth table in Quartus using Verilog programming
